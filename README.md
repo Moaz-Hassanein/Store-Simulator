@@ -55,17 +55,6 @@ dotnet run
 - **Pattern matching:** used on `Result`, `Option`, empty vs. non-empty carts, and the selected item in the GUI.
 - **Collection functions:** `List.map`, `List.choose`, `List.sumBy`, `List.countBy`, `List.tryFindIndex`, `List.removeAt`.
 
-## GitHub Collaboration
 
-Suggested split of work (adjust to your team):
-
-| Member | Area |
-|---|---|
-| 1 | `Domain.fs` and the product catalog |
-| 2 | Cart operations and receipt in `Store.fs` |
-| 3 | Windows Forms interface in `MainForm.fs` |
-| 4 | Integration, testing, README |
-
-Suggested workflow: one branch per feature, small commits, a pull request for each branch, and a review by another member before merging into `main`.
 
 Repository: `https://github.com/Moaz-Hassanein/Store-Simulator`
