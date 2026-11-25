@@ -68,4 +68,4 @@ Suggested split of work (adjust to your team):
 
 Suggested workflow: one branch per feature, small commits, a pull request for each branch, and a review by another member before merging into `main`.
 
-Repository: `<REPOSITORY-URL>`
+Repository: `https://github.com/Moaz-Hassanein/Store-Simulator`
