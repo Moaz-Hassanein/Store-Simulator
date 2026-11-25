@@ -42,7 +42,7 @@ The files are compiled in this order: `Domain.fs` → `Store.fs` → `MainForm.f
 
 ```bash
 git clone https://github.com/Moaz-Hassanein/Store-Simulator
-cd SimpleStoreSimulator
+cd Store-Simulator
 dotnet restore
 dotnet build
 dotnet run
