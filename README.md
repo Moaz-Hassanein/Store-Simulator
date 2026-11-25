@@ -41,7 +41,7 @@ The files are compiled in this order: `Domain.fs` → `Store.fs` → `MainForm.f
 ## Clone and Run
 
 ```bash
-git clone <REPOSITORY-URL>
+git clone https://github.com/Moaz-Hassanein/Store-Simulator
 cd SimpleStoreSimulator
 dotnet restore
 dotnet build
